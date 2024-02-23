@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _33
 {
-    interface ISolidSnake //No, it's not Solid Snake
+    interface ISolidSnake //No, that is not Solid Snake
     {
         void Snake();
     }
